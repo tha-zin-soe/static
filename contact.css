@@ -1,0 +1,19 @@
+#content{
+	width:1000px;
+	height:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:lightblue;
+}
+#left{
+	width:500px;
+	height:500px;
+	flaot:left;
+	
+}
+#lf{
+	width:500px;
+	height:500px;
+	flaot:left;
+	
+}

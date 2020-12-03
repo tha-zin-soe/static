@@ -1,0 +1,65 @@
+.content{
+	width:1000px;
+	height:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+}
+.info{
+	text-decoration:underline;
+}
+.p{
+	margin-left:10px;
+}
+.ft{
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+.left{
+	width:300px;
+	height:1000px;
+	float:left;
+	border:0px solid grey;
+}
+.center{
+	width:700px;
+	height:1000px;
+	float:left;
+	border:0px solid grey;
+}
+.right{
+	width:300px;
+	height:1000px;
+	float:left;
+	border:0px solid grey;
+}
+
+#samsung{
+	margin-left:20px;
+}
+#launch{
+	color:red;
+	font-size:20px;
+	text-transform:uppercase;
+}
+#ann{
+	margin-left:20px;
+	color:grey;
+	font-size:20px;
+}
+.bd{
+	border: groove grey;
+	border-left-style:groove grey;
+	border-right-style:groove grey;
+	border-top-style:groove grey;
+	border-bottom-style:groove grey;
+	margin-top:10px;
+}
+#oppo{
+	margin-left:15px;
+	mragin-top:15px;
+}
+.table{
+	margin-left:30px;
+}
